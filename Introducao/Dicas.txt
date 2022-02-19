@@ -1,0 +1,1 @@
+Git Bash vem instalado com o Git.
